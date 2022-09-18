@@ -11,8 +11,13 @@ https://note-taker-slachelier.herokuapp.com/
 ## Instructions
 
 • Start taking notes by clicking on the 'Get Started' button.
+
 • Type in the 'Note Title' section to enter the title of your note.
+
 • Type in the 'Note Text' section to enter the text of your note.
+
 • Click on the trashcan icon on the left of the screen next to each existing note to delete them.
+
 • Click on each note title to view the note.
+
 • Click on the '+' icon on the top right hand corner of the app to create a new note.
